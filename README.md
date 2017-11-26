@@ -29,6 +29,10 @@ Source Code license is [BSD 2-Clause License]
 
 Build LTFSLEManager.exe and DoubleClick. Good luck! :)
 
+#### Checked Environment
+
+IBM Spectrum Archive(LTFS) Library Edition V2.1.7 for Windows (ILAN License)
+
 #### to Build
 We checked Windows Server 2012R2 only.
 Linux Version is not checked.
@@ -43,6 +47,11 @@ https://www.qt.io/
 This tool is an in-house optimized implementation.
 If you want to use it in your company, you need to change the source code.
 I think change is pretty easy, cheers!
+
+This tool is affected by the implementation of LTFSLE and commands outputs format.
+Take care of your LTFS Environment.
+
+
 
 #### TODO
 - complex LTFS format batch?
