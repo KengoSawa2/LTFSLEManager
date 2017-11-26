@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qm">
+        <file>LTFSLEManager.qm</file>
+    </qresource>
+</RCC>
