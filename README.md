@@ -3,7 +3,7 @@ LTFS Library Edition management tool with Qt5.x
 
 ![LTFSLEManager](https://github.com/KengoSawa2/LTFSLEManager/blob/master/SS/LTFSLEManager.png "LTFSLEManager")
 
-#### Overview
+## Overview
 LTFSLEManager is LTFS Library Edition management tool.
 
 LTFSLEManager provides the following functions.
@@ -21,19 +21,24 @@ https://www.ibm.com/support/knowledgecenter/STZMZN_2.1.7.1/ltfs_le_ichome.html
 And LTFSLE command reference.
 https://www.ibm.com/support/knowledgecenter/STZMZN_2.1.7.1/ltfs_managing_command_line_library_edition.html
 
-#### License
+### License
 
 Source Code license is [BSD 2-Clause License]  
 
-#### Specification/Usage
+### Specification/Usage
 
 Build LTFSLEManager.exe and DoubleClick. Good luck! :)
 
-#### Checked Environment
+### Checked Environment
 
+Software:
 IBM Spectrum Archive(LTFS) Library Edition V2.1.7 for Windows (ILAN License)
 
-#### to Build
+Hardware:
+TS2900 with LTO-7 drive
+https://www.ibm.com/us-en/marketplace/ts2900
+
+### to Build
 We checked Windows Server 2012R2 only.
 Linux Version is not checked.
 
@@ -43,15 +48,13 @@ Qt Framework can download here.
 
 https://www.qt.io/
 
-#### Notice
+## Notice
 This tool is an in-house optimized implementation.
 If you want to use it in your company, you need to change the source code.
 I think change is pretty easy, cheers!
 
 This tool is affected by the implementation of LTFSLE and commands outputs format.
 Take care of your LTFS Environment.
-
-
 
 #### TODO
 - complex LTFS format batch?
