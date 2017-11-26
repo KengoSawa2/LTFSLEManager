@@ -39,6 +39,11 @@ Qt Framework can download here.
 
 https://www.qt.io/
 
+#### Notice
+This tool is an in-house optimized implementation.
+If you want to use it in your company, you need to change the source code.
+I think change is pretty easy, cheers!
+
 #### TODO
 - complex LTFS format batch?
 - LTFSLE for Linux checking?
