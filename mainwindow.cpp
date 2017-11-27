@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
         translater =  new QTranslator();
         main = QApplication::instance();
         
-        translater->load("LTLFLEManager",
+        translater->load("LTFSLEManager",
                          TRANSLATE_RESOURCE_NAMEBASE);
         main->installTranslator(translater);
     }
