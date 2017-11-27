@@ -62,5 +62,5 @@ Take care of your LTFS Environment.
 
 #### TODO
 - complex LTFS format batch?
-- LTFSLE for Linux checking?
+- Check and fix LTFSLE for Linux?
 
